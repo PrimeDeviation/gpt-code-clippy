@@ -87,7 +87,7 @@ transformers @ git+https://github.com/huggingface/transformers@534f6eb9f1f8910a4
 typing-extensions==3.7.4.3
 ujson==4.0.2
 urllib3==1.26.4
-Werkzeug==2.0.0
+Werkzeug==2.2.3
 wrapt==1.12.1
 xxhash==2.0.2
 zipp==3.4.1
