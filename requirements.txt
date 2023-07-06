@@ -32,7 +32,7 @@ idna==2.6
 importlib-metadata==4.0.1
 jax==0.2.17
 jaxlib==0.1.69
-joblib==1.0.1
+joblib==1.2.0
 jsonlines==2.0.0
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
