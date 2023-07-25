@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 astunparse==1.6.3
 cached-property==1.5.2
 cachetools==4.2.2
-certifi==2020.12.5
+certifi==2023.7.22
 chardet==4.0.0
 chex==0.0.8
 click==8.0.1
