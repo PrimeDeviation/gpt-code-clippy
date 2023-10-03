@@ -86,7 +86,7 @@ tqdm==4.61.2
 transformers @ git+https://github.com/huggingface/transformers@534f6eb9f1f8910a4912ccccd79f1f974c625168
 typing-extensions==3.7.4.3
 ujson==4.0.2
-urllib3==1.26.4
+urllib3==1.26.17
 Werkzeug==2.0.0
 wrapt==1.12.1
 xxhash==2.0.2
